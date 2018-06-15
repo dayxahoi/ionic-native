@@ -176,3 +176,8 @@ Mike Hartington - [@mhartington](https://twitter.com/mhartington)
 Max Lynch - [@maxlynch](https://twitter.com/maxlynch)
 
 Rob Wormald - [@robwormald](https://twitter.com/robwormald)
+
+
+# My Customization
+1. Upgrade interface of background-geolocation to v3 based on PR https://github.com/ionic-team/ionic-native/pull/2393/files
+2. Add more parameters to Crop interface to use with https://github.com/obeza/cordova-plugin-crop-with-ratio
