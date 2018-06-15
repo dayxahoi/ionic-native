@@ -5,6 +5,8 @@ export interface CropOptions {
   quality?: number;
   targetHeight?: number;
   targetWidth?: number;
+  widthRatio: number;
+  heightRatio: number;
 }
 
 /**
